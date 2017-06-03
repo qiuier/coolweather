@@ -4,6 +4,6 @@
     <list>
         <mapping class="com.qiuier.coolweather.db.Province"/>
         <mapping class="com.qiuier.coolweather.db.City"/>
-        <mapping class="com.qiuier.coolweather.db.Country"/>
+        <mapping class="com.qiuier.coolweather.db.County"/>
     </list>
 </litepal>
